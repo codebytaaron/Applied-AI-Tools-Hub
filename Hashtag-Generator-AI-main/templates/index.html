@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Hashtag Gen AI</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="header">
+        <div>
+          <h1>Hashtag Gen AI</h1>
+          <p>Generate platform-ready hashtags from a caption and context.</p>
+        </div>
+        <div class="pill">Local AI + Fallback</div>
+      </header>
+
+      <main class="grid">
+        <section class="card">
+          <h2>Input</h2>
+
+          <label class="label">Platform</label>
+          <select id="platform" class="input">
+            <option value="instagram">Instagram</option>
+            <option value="tiktok">TikTok</option>
+            <option value="youtube">YouTube</option>
+            <option value="x">X</option>
+            <option value="linkedin">LinkedIn</option>
+          </select>
+
+          <label class="label">Caption</label>
+          <textarea id="caption" class="input area" placeholder="Paste your post caption here..."></textarea>
+
+          <label class="label">Extra context (optional)</label>
+          <textarea id="context" class="input area small" placeholder="What is this post about? Who is it for?"></textarea>
+
+          <div class="row">
+            <div class="col">
+              <label class="label">Niche (optional)</label>
+              <input id="niche" class="input" placeholder="e.g. tennis training, startup ai, fitness" />
+            </div>
+            <div class="col">
+              <label class="label">Hashtag count</label>
+              <input id="count" class="input" type="number" min="5" max="30" value="18" />
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col">
+              <label class="label">Brand tag (optional)</label>
+              <input id="brand" class="input" placeholder="e.g. zylos" />
+            </div>
+            <div class="col toggle">
+              <input id="includeBrand" type="checkbox" checked />
+              <span>Include brand tag</span>
+            </div>
+          </div>
+
+          <button id="genBtn" class="btn">Generate hashtags</button>
+          <div id="status" class="status"></div>
+        </section>
+
+        <section class="card">
+          <h2>Output</h2>
+          <div class="subrow">
+            <button id="copyBtn" class="btn ghost" disabled>Copy</button>
+            <div id="source" class="pill muted">source: -</div>
+          </div>
+          <div id="out" class="output muted">Your hashtags will show up here.</div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        Tip: If you install Ollama, the AI results get much smarter. If not, fallback still works.
+      </footer>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>
