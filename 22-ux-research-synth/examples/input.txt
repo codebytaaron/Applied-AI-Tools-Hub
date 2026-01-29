@@ -1,0 +1,5 @@
+# Example input for UX Research Synthesizer
+
+- Context:
+- Constraints:
+- Raw notes/data:

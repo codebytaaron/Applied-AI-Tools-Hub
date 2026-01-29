@@ -1,0 +1,5 @@
+# Example input for Partnership Fit Evaluator
+
+- Context:
+- Constraints:
+- Raw notes/data:

@@ -1,0 +1,5 @@
+# Example input for Incident Response Coordinator
+
+- Context:
+- Constraints:
+- Raw notes/data:

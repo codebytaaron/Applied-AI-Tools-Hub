@@ -1,0 +1,5 @@
+# Example input for Supplier Lead-Time Forecaster
+
+- Context:
+- Constraints:
+- Raw notes/data:
