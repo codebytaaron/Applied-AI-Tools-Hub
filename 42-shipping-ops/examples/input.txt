@@ -1,0 +1,5 @@
+# Example input for Shipping + Returns Optimization
+
+- Context:
+- Constraints:
+- Raw notes/data:

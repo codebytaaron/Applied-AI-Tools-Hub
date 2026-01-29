@@ -1,0 +1,5 @@
+# Example input for Knowledge Base Article Writer
+
+- Context:
+- Constraints:
+- Raw notes/data:

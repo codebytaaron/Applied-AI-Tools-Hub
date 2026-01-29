@@ -1,0 +1,5 @@
+# Example input for Brand Voice Guardrails Writer
+
+- Context:
+- Constraints:
+- Raw notes/data:

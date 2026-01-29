@@ -1,0 +1,5 @@
+# Example input for Renewal + Churn Forecaster
+
+- Context:
+- Constraints:
+- Raw notes/data:
