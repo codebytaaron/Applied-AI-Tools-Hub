@@ -1,0 +1,485 @@
+{
+  "name": "AI-Powered Lead Generation and Qualification with Auto-Scheduling",
+  "nodes": [
+    {
+      "parameters": {
+        "formTitle": "Get Started - Request a Consultation",
+        "formDescription": "Tell us about your needs and we'll get back to you shortly",
+        "formFields": {
+          "values": [
+            {
+              "fieldLabel": "Full Name",
+              "fieldName": "fullName",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Email Address",
+              "fieldType": "email",
+              "fieldName": "email",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Company Name",
+              "fieldName": "company",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Company Size",
+              "fieldType": "dropdown",
+              "fieldName": "companySize",
+              "fieldOptions": {
+                "values": [
+                  {
+                    "option": "1-10"
+                  },
+                  {
+                    "option": "11-50"
+                  },
+                  {
+                    "option": "51-200"
+                  },
+                  {
+                    "option": "201-1000"
+                  },
+                  {
+                    "option": "1000+"
+                  }
+                ]
+              },
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Industry",
+              "fieldType": "dropdown",
+              "fieldName": "industry",
+              "fieldOptions": {
+                "values": [
+                  {
+                    "option": "Technology"
+                  },
+                  {
+                    "option": "Healthcare"
+                  },
+                  {
+                    "option": "Finance"
+                  },
+                  {
+                    "option": "Retail"
+                  },
+                  {
+                    "option": "Manufacturing"
+                  },
+                  {
+                    "option": "Consulting"
+                  },
+                  {
+                    "option": "Other"
+                  }
+                ]
+              },
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "What challenges are you looking to solve?",
+              "fieldType": "textarea",
+              "fieldName": "challenges",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Timeline",
+              "fieldType": "dropdown",
+              "fieldName": "timeline",
+              "fieldOptions": {
+                "values": [
+                  {
+                    "option": "Immediate (within 1 month)"
+                  },
+                  {
+                    "option": "Short-term (1-3 months)"
+                  },
+                  {
+                    "option": "Medium-term (3-6 months)"
+                  },
+                  {
+                    "option": "Long-term (6+ months)"
+                  },
+                  {
+                    "option": "Just exploring"
+                  }
+                ]
+              },
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Budget Range",
+              "fieldType": "dropdown",
+              "fieldName": "budget",
+              "fieldOptions": {
+                "values": [
+                  {
+                    "option": "Under $5k"
+                  },
+                  {
+                    "option": "$5k-$25k"
+                  },
+                  {
+                    "option": "$25k-$100k"
+                  },
+                  {
+                    "option": "$100k+"
+                  },
+                  {
+                    "option": "Not sure yet"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "options": {
+          "appendAttribution": false,
+          "respondWithOptions": {
+            "values": {
+              "formSubmittedText": "Thank you! We've received your information and will be in touch soon."
+            }
+          }
+        }
+      },
+      "id": "570d6ba4-7e7f-4f97-a712-2e14a0c6ec7c",
+      "name": "Lead Generation Form",
+      "type": "n8n-nodes-base.formTrigger",
+      "typeVersion": 2.5,
+      "position": [
+        1312,
+        -96
+      ],
+      "webhookId": "18d159df-e168-465e-b25b-4e58bff0ce17"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "id-1",
+              "name": "submittedAt",
+              "value": "={{ $now.toISO() }}",
+              "type": "string"
+            },
+            {
+              "id": "id-2",
+              "name": "fullName",
+              "value": "={{ $json.fullName }}",
+              "type": "string"
+            },
+            {
+              "id": "id-3",
+              "name": "email",
+              "value": "={{ $json.email }}",
+              "type": "string"
+            },
+            {
+              "id": "id-4",
+              "name": "company",
+              "value": "={{ $json.company }}",
+              "type": "string"
+            },
+            {
+              "id": "id-5",
+              "name": "companySize",
+              "value": "={{ $json.companySize }}",
+              "type": "string"
+            },
+            {
+              "id": "id-6",
+              "name": "industry",
+              "value": "={{ $json.industry }}",
+              "type": "string"
+            },
+            {
+              "id": "id-7",
+              "name": "challenges",
+              "value": "={{ $json.challenges }}",
+              "type": "string"
+            },
+            {
+              "id": "id-8",
+              "name": "timeline",
+              "value": "={{ $json.timeline }}",
+              "type": "string"
+            },
+            {
+              "id": "id-9",
+              "name": "budget",
+              "value": "={{ $json.budget }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "7bbb1a8d-0f6d-4a67-885a-ed4257a78eb1",
+      "name": "Workflow Configuration",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1536,
+        -96
+      ]
+    },
+    {
+      "parameters": {
+        "dataTableId": {
+          "__rl": true,
+          "mode": "name",
+          "value": "Leads"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": null
+        },
+        "options": {}
+      },
+      "id": "f14e5a04-c2a0-4ca1-9f15-f75db9a68af9",
+      "name": "Store Lead Data",
+      "type": "n8n-nodes-base.dataTable",
+      "typeVersion": 1.1,
+      "position": [
+        1760,
+        -96
+      ]
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "mode": "id",
+          "value": "gpt-4o-mini"
+        },
+        "builtInTools": {},
+        "options": {
+          "temperature": 0.3
+        }
+      },
+      "id": "18adcb07-fade-4d34-a197-4db22d8f9c8c",
+      "name": "OpenAI GPT-4",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.3,
+      "position": [
+        1992,
+        128
+      ],
+      "credentials": {
+        "openAiApi": {
+          "id": "STODJZmHEn9MJr7z",
+          "name": "n8n free OpenAI API credits"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "schemaType": "manual",
+        "inputSchema": "{\n\t\"type\": \"object\",\n\t\"properties\": {\n\t\t\"score\": {\n\t\t\t\"type\": \"number\",\n\t\t\t\"description\": \"Lead quality score from 0-100\"\n\t\t},\n\t\t\"reasoning\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"description\": \"Brief explanation of the score\"\n\t\t},\n\t\t\"priority\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"enum\": [\"high\", \"medium\", \"low\"],\n\t\t\t\"description\": \"Priority level for follow-up\"\n\t\t},\n\t\t\"recommendedAction\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"description\": \"Suggested next steps\"\n\t\t}\n\t},\n\t\"required\": [\"score\", \"reasoning\", \"priority\", \"recommendedAction\"]\n}"
+      },
+      "id": "605cc27d-a000-4d76-97c3-277d94ea1f64",
+      "name": "Lead Qualification Schema",
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        2120,
+        128
+      ]
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Analyze this lead:\n\nName: {{ $json.fullName }}\nEmail: {{ $json.email }}\nCompany: {{ $json.company }}\nCompany Size: {{ $json.companySize }}\nIndustry: {{ $json.industry }}\nChallenges: {{ $json.challenges }}\nTimeline: {{ $json.timeline }}\nBudget: {{ $json.budget }}",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "You are a lead qualification expert. Analyze lead information and provide a quality score (0-100) based on these criteria:\n\n1. Company Size (weight: 20%) - Larger companies typically have bigger budgets\n2. Budget Range (weight: 30%) - Higher budgets indicate stronger intent\n3. Timeline (weight: 25%) - Immediate/short-term needs are higher priority\n4. Challenge Complexity (weight: 15%) - Detailed, specific challenges show serious intent\n5. Industry Fit (weight: 10%) - Technology, Finance, Healthcare are typically good fits\n\nProvide a score, reasoning, priority level (high/medium/low), and recommended action. Leads scoring 70+ should be marked as high priority."
+        }
+      },
+      "id": "8ac59a40-9956-4cfe-9110-3f7ca66602b4",
+      "name": "AI Lead Qualifier",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        1984,
+        -96
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": false,
+            "leftValue": "",
+            "typeValidation": "loose"
+          },
+          "conditions": [
+            {
+              "id": "id-1",
+              "leftValue": "={{ $json.score }}",
+              "rightValue": "70",
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "7fe6f126-ef41-4cfc-94e5-3a440f038301",
+      "name": "Route High-Score Leads",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        2336,
+        -96
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "getAll",
+        "calendar": {
+          "__rl": true,
+          "mode": "id",
+          "value": "primary"
+        },
+        "timeMin": "={{ $now.toISO() }}",
+        "timeMax": "={{ $now.plus({ days: 14 }).toISO() }}",
+        "options": {
+          "orderBy": "startTime"
+        }
+      },
+      "id": "a9f144e8-02de-4713-a58d-ef4f382af1e5",
+      "name": "Get Available Slots",
+      "type": "n8n-nodes-base.googleCalendar",
+      "typeVersion": 1.3,
+      "position": [
+        2560,
+        -96
+      ]
+    },
+    {
+      "parameters": {
+        "sendTo": "={{ $('Workflow Configuration').item.json.email }}",
+        "subject": "Let's Schedule Your Free 15-Minute Consultation",
+        "message": "=<p>Hi ={{ $('Workflow Configuration').item.json.fullName.split(' ')[0] }},</p>\n\n<p>Thank you for your interest! Based on your needs at ={{ $('Workflow Configuration').item.json.company }}, I'd love to schedule a quick 15-minute call to discuss how we can help with ={{ $('Workflow Configuration').item.json.challenges }}.</p>\n\n<p><strong>Here are some available time slots over the next two weeks:</strong></p>\n\n<p>Please reply to this email with your preferred time, or feel free to suggest an alternative that works better for you.</p>\n\n<p>Looking forward to connecting!</p>\n\n<p>Best regards,<br>Your Team</p>\n\n<p style=\"font-size: 11px; color: #666; margin-top: 30px;\">This is a personalized response based on your submission. We prioritize high-quality leads to ensure we can provide the best service.</p>",
+        "options": {}
+      },
+      "id": "21df0b22-7926-4195-96fe-b693468499e0",
+      "name": "Send Offer Email",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.2,
+      "position": [
+        2784,
+        -96
+      ],
+      "webhookId": "0e9e2899-322d-4807-a7b9-1d9ac149c3b9"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Lead Generation Form": {
+      "main": [
+        [
+          {
+            "node": "Workflow Configuration",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Workflow Configuration": {
+      "main": [
+        [
+          {
+            "node": "Store Lead Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Store Lead Data": {
+      "main": [
+        [
+          {
+            "node": "AI Lead Qualifier",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI GPT-4": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Lead Qualifier",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lead Qualification Schema": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "AI Lead Qualifier",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Lead Qualifier": {
+      "main": [
+        [
+          {
+            "node": "Route High-Score Leads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Route High-Score Leads": {
+      "main": [
+        [
+          {
+            "node": "Get Available Slots",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Available Slots": {
+      "main": [
+        [
+          {
+            "node": "Send Offer Email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false
+  },
+  "versionId": "46d5f910-4b02-4752-9bfd-5c50259f75a6",
+  "meta": {
+    "instanceId": "01d0b1478ba8fd69e2cd4d2e68ff0366ee21892923f7479edffab68dd8edd0a0"
+  },
+  "id": "CoJOSs40lPTMbzOSoBd9R",
+  "tags": []
+}
