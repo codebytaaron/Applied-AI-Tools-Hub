@@ -1,0 +1,11 @@
+honest-grader-ai/
+  app.py
+  grader.py
+  requirements.txt
+  README.md
+  .gitignore
+  templates/
+    index.html
+    result.html
+  static/
+    style.css

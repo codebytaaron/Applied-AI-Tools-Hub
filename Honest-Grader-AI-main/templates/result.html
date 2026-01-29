@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Grade Result</title>
+  <link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+  <div class="container">
+    <a class="back" href="/">← Grade another</a>
+
+    <div class="card">
+      <h1>Result</h1>
+
+      <div class="scoreline">
+        <div class="big">
+          {{ result.overall_score }} / {{ result.overall_max }}
+        </div>
+        <div class="meta">
+          <div>Letter: <b>{{ result.letter_grade }}</b></div>
+          <div>Percent: <b>{{ result.percent }}%</b></div>
+          <div>Mode: <b>{{ req.strictness }}</b></div>
+        </div>
+      </div>
+
+      {% if result.assumptions and result.assumptions|length > 0 %}
+      <h2>Assumptions</h2>
+      <ul>
+        {% for a in result.assumptions %}
+          <li>{{ a }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      <h2>Rubric breakdown</h2>
+      {% for item in result.rubric_breakdown %}
+        <div class="rubric-item">
+          <div class="rubric-head">
+            <b>{{ item.criterion }}</b>
+            <span class="pill">{{ item.score }} / {{ item.max_score }}</span>
+          </div>
+          <p><b>Why:</b> {{ item.why }}</p>
+          {% if item.how_to_improve %}
+          <p><b>How to improve:</b></p>
+          <ul>
+            {% for tip in item.how_to_improve %}
+              <li>{{ tip }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+      {% endfor %}
+
+      <h2>Strengths</h2>
+      <ul>
+        {% for s in result.strengths %}
+          <li>{{ s }}</li>
+        {% endfor %}
+      </ul>
+
+      <h2>Top fixes</h2>
+      <ol>
+        {% for f in result.top_fixes %}
+          <li>{{ f }}</li>
+        {% endfor %}
+      </ol>
+
+      <h2>Rewrite suggestions</h2>
+      {% for r in result.rewrite_suggestions %}
+        <div class="rewrite">
+          <p class="smallcap">Original</p>
+          <pre>{{ r.original_excerpt }}</pre>
+          <p class="smallcap">Improved</p>
+          <pre>{{ r.improved_version }}</pre>
+          <p class="reason"><b>Reason:</b> {{ r.reason }}</p>
+        </div>
+      {% endfor %}
+
+      <h2>Final comment</h2>
+      <p>{{ result.final_comment }}</p>
+    </div>
+  </div>
+</body>
+</html>

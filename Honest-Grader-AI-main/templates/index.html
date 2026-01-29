@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Honest Grader AI</title>
+  <link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>Honest Grader AI</h1>
+    <p class="sub">Paste your rubric + your work. Get a direct grade with fixes and rewrites.</p>
+
+    <form action="/grade" method="post" class="card">
+      <div class="grid">
+        <div>
+          <label>Assignment type</label>
+          <input name="assignment_type" placeholder="Essay, lab report, short answer, history DBQ..." required />
+        </div>
+        <div>
+          <label>Grade level</label>
+          <input name="grade_level" placeholder="9th grade, APUSH, Algebra 2..." required />
+        </div>
+        <div>
+          <label>Strictness</label>
+          <select name="strictness">
+            <option value="easy">Easy</option>
+            <option value="medium" selected>Medium</option>
+            <option value="hard">Hard</option>
+          </select>
+        </div>
+      </div>
+
+      <label>Rubric</label>
+      <textarea name="rubric" rows="8" placeholder="Paste the teacher rubric here (criteria + points if you have them)..." required></textarea>
+
+      <label>Your work</label>
+      <textarea name="student_work" rows="12" placeholder="Paste your writing or answers here..." required></textarea>
+
+      <button type="submit">Grade it honestly</button>
+
+      <p class="hint">
+        Tip: If your teacher gave a checklist, paste that into the rubric too.
+      </p>
+    </form>
+  </div>
+</body>
+</html>
