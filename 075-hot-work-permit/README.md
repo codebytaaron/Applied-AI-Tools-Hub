@@ -1,9 +1,9 @@
-# General Template 100
+# Hot Work Permit
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates hot work permit templates.
 
 ## Run
 ```bash

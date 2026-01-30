@@ -1,9 +1,9 @@
-# General Template 100
+# Warranty Claim Process
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Defines warranty claim steps.
 
 ## Run
 ```bash

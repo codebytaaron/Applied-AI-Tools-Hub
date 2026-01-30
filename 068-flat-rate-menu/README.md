@@ -1,9 +1,9 @@
-# General Template 100
+# Flat‑Rate Menu
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates flat‑rate pricing menus.
 
 ## Run
 ```bash

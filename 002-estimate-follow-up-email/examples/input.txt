@@ -1,0 +1,5 @@
+# Example input for: Estimate Follow‑Up Email
+
+- Job context:
+- Constraints:
+- Notes:

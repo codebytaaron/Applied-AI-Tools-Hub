@@ -1,9 +1,9 @@
-# General Template 100
+# Overtime Policy
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Drafts overtime and on‑call policies.
 
 ## Run
 ```bash

@@ -1,9 +1,9 @@
-# General Template 100
+# Pre‑Bid Checklist
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates pre‑bid checklists.
 
 ## Run
 ```bash

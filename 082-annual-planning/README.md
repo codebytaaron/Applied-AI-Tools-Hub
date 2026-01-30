@@ -1,9 +1,9 @@
-# General Template 100
+# Annual Planning
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates annual planning outlines.
 
 ## Run
 ```bash

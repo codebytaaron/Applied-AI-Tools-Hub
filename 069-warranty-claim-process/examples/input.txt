@@ -1,0 +1,5 @@
+# Example input for: Warranty Claim Process
+
+- Job context:
+- Constraints:
+- Notes:

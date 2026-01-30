@@ -1,9 +1,9 @@
-# General Template 100
+# Tool Checklist
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Builds tool lists by job type.
 
 ## Run
 ```bash

@@ -1,0 +1,5 @@
+# Example input for: Hot Work Permit
+
+- Job context:
+- Constraints:
+- Notes:

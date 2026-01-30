@@ -1,9 +1,9 @@
-# General Template 100
+# KPI Dashboard Spec
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Defines KPIs and tracking.
 
 ## Run
 ```bash

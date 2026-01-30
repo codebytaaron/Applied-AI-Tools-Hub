@@ -1,9 +1,9 @@
-# General Template 100
+# Exit Interview
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates exit interview guides.
 
 ## Run
 ```bash

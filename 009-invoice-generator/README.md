@@ -1,9 +1,9 @@
-# General Template 100
+# Invoice Generator
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates invoices with line items and payment terms.
 
 ## Run
 ```bash

@@ -1,9 +1,9 @@
-# General Template 100
+# Estimate Follow‑Up Email
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Writes follow‑ups to close pending estimates.
 
 ## Run
 ```bash

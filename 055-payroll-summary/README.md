@@ -1,9 +1,9 @@
-# General Template 100
+# Payroll Summary
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates payroll summaries.
 
 ## Run
 ```bash

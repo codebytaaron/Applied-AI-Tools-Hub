@@ -1,9 +1,9 @@
-# General Template 100
+# Fleet Maintenance
 
 Industry template: **Blue‑Collar Services**
 
 ## What it does
-General blue‑collar operations helper.
+Creates fleet maintenance schedules.
 
 ## Run
 ```bash
