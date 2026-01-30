@@ -1,0 +1,5 @@
+# Example input for: Inventory Par-Level Planner
+
+- Business context:
+- Constraints:
+- Data / notes:

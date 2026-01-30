@@ -1,0 +1,5 @@
+# Example input for: Voir Dire Question Bank
+
+- Business context:
+- Constraints:
+- Data / notes:
