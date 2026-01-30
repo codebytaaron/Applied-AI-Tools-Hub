@@ -1,0 +1,5 @@
+# Example input for: Hiring Scorecard Builder
+
+- Context:
+- Constraints:
+- Raw notes:
