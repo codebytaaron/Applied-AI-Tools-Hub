@@ -1,0 +1,5 @@
+# Example input for: Issue Spotter
+
+- Business context:
+- Constraints:
+- Data / notes:

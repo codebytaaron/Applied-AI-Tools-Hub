@@ -1,0 +1,5 @@
+# Example input for: Catering Package Builder
+
+- Business context:
+- Constraints:
+- Data / notes:
