@@ -1,0 +1,5 @@
+# Example input for: Lockout/Tagout SOP
+
+- Job context:
+- Constraints:
+- Notes:
