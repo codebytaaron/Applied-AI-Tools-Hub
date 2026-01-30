@@ -1,0 +1,5 @@
+# Example input for: Investor Update Writer
+
+- Context:
+- Constraints:
+- Raw notes:

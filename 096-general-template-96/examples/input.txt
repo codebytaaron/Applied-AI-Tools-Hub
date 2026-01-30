@@ -1,0 +1,5 @@
+# Example input for: General Template 96
+
+- Context:
+- Constraints:
+- Raw notes:
