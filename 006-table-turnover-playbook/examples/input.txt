@@ -1,0 +1,5 @@
+# Example input for: Table Turnover Playbook
+
+- Business context:
+- Constraints:
+- Data / notes:

@@ -1,0 +1,5 @@
+# Example input for: Labor Schedule Builder
+
+- Business context:
+- Constraints:
+- Data / notes:

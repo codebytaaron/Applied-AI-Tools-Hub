@@ -1,0 +1,5 @@
+# Example input for: Vendor Contract SoW
+
+- Business context:
+- Constraints:
+- Data / notes:
