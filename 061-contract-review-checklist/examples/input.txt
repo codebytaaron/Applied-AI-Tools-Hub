@@ -1,0 +1,5 @@
+# Example input for: Contract Review Checklist
+
+- Business context:
+- Constraints:
+- Data / notes:

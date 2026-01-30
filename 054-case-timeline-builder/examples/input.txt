@@ -1,0 +1,5 @@
+# Example input for: Case Timeline Builder
+
+- Business context:
+- Constraints:
+- Data / notes:
