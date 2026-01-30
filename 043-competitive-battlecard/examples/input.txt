@@ -1,0 +1,5 @@
+# Example input for: Competitive Battlecard
+
+- Context:
+- Constraints:
+- Raw notes:

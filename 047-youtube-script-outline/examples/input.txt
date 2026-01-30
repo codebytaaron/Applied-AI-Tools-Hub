@@ -1,0 +1,5 @@
+# Example input for: YouTube Script Outline
+
+- Context:
+- Constraints:
+- Raw notes:
