@@ -1,0 +1,5 @@
+# Example input for: Benefits Explainer
+
+- Job context:
+- Constraints:
+- Notes:

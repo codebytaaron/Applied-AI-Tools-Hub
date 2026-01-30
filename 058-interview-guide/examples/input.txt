@@ -1,0 +1,5 @@
+# Example input for: Interview Guide
+
+- Job context:
+- Constraints:
+- Notes:

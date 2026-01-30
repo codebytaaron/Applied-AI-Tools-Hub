@@ -1,0 +1,5 @@
+# Example input for: Mobilization Plan
+
+- Job context:
+- Constraints:
+- Notes:
