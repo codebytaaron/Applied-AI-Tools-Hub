@@ -1,0 +1,5 @@
+# Example input for: Vendor Onboarding Checklist
+
+- Business context:
+- Constraints:
+- Data / notes:

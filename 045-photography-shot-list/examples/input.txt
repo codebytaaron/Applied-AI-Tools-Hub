@@ -1,0 +1,5 @@
+# Example input for: Photography Shot List
+
+- Business context:
+- Constraints:
+- Data / notes:

@@ -1,0 +1,5 @@
+# Example input for: Intake Questionnaire Builder
+
+- Business context:
+- Constraints:
+- Data / notes:

@@ -1,0 +1,5 @@
+# Example input for: Menu Description Rewriter
+
+- Business context:
+- Constraints:
+- Data / notes:

@@ -1,0 +1,5 @@
+# Example input for: Sanitation Schedule Builder
+
+- Business context:
+- Constraints:
+- Data / notes:
