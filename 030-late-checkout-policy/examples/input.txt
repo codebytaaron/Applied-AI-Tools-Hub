@@ -1,0 +1,5 @@
+# Example input for: Late Checkout Policy
+
+- Context:
+- Constraints:
+- Notes:
