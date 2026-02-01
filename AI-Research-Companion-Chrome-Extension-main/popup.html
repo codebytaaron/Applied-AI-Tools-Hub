@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI Research Assistant</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="wrap">
+    <h1>AI Research Assistant</h1>
+
+    <div class="card">
+      <label>OpenAI API Key</label>
+      <div class="row">
+        <input id="key" type="password" placeholder="sk-..." />
+        <button id="save">Save</button>
+      </div>
+      <div class="hint">Stored locally in your browser.</div>
+    </div>
+
+    <div class="card">
+      <label>Tools</label>
+      <div class="grid">
+        <button data-mode="summarize">Summarize</button>
+        <button data-mode="requirements">Requirements</button>
+        <button data-mode="dates">Dates</button>
+        <button data-mode="nextclicks">Next clicks</button>
+        <button data-mode="checklist">Checklist</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <label>Output</label>
+      <div id="meta" class="meta"></div>
+      <pre id="out">(run a tool)</pre>
+    </div>
+
+    <div class="card">
+      <label>Recent (this domain)</label>
+      <div id="hist" class="hist">(none yet)</div>
+    </div>
+
+    <div id="status" class="status"></div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
