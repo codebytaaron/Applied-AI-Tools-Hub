@@ -1,0 +1,5 @@
+# Example input for: Late-Night Safety Plan
+
+- Context:
+- Constraints:
+- Notes:

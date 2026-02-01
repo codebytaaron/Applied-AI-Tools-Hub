@@ -1,0 +1,5 @@
+# Example input for: Barback Task List
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Warranty Claim Helper
+
+- Context:
+- Constraints:
+- Notes:
