@@ -1,0 +1,5 @@
+# Example input for: Expansion Location Notes
+
+- Context:
+- Constraints:
+- Notes:

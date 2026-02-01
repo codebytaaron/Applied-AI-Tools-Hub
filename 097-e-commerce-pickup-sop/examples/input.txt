@@ -1,0 +1,5 @@
+# Example input for: E-commerce Pickup SOP
+
+- Context:
+- Constraints:
+- Notes:
