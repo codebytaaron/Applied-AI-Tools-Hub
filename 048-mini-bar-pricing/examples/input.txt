@@ -1,0 +1,5 @@
+# Example input for: Mini-Bar Pricing
+
+- Context:
+- Constraints:
+- Notes:
