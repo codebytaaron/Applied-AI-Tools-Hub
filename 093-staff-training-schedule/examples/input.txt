@@ -1,0 +1,5 @@
+# Example input for: Staff Training Schedule
+
+- Context:
+- Constraints:
+- Notes:

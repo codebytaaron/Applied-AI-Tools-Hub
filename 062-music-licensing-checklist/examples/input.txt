@@ -1,0 +1,5 @@
+# Example input for: Music Licensing Checklist
+
+- Context:
+- Constraints:
+- Notes:
