@@ -1,0 +1,5 @@
+# Example input for: Expansion Feasibility Notes
+
+- Context:
+- Constraints:
+- Notes:
