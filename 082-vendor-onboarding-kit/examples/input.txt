@@ -1,0 +1,5 @@
+# Example input for: Vendor Onboarding Kit
+
+- Context:
+- Constraints:
+- Notes:

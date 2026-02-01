@@ -1,0 +1,5 @@
+# Example input for: Rain-Day Promo Planner
+
+- Context:
+- Constraints:
+- Notes:

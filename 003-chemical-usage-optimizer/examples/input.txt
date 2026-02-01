@@ -1,0 +1,5 @@
+# Example input for: Chemical Usage Optimizer
+
+- Context:
+- Constraints:
+- Notes:
