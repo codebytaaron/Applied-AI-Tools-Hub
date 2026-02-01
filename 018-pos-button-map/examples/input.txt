@@ -1,0 +1,5 @@
+# Example input for: POS Button Map
+
+- Context:
+- Constraints:
+- Notes:

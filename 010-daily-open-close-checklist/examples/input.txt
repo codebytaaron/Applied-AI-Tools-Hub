@@ -1,0 +1,5 @@
+# Example input for: Daily Open/Close Checklist
+
+- Context:
+- Constraints:
+- Notes:

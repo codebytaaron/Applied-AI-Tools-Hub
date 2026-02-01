@@ -1,0 +1,5 @@
+# Example input for: Employee Training Card
+
+- Context:
+- Constraints:
+- Notes:

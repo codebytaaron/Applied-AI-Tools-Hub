@@ -1,0 +1,5 @@
+# Example input for: Vacuum Zone Layout
+
+- Context:
+- Constraints:
+- Notes:
