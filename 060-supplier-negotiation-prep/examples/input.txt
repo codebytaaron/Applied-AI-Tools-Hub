@@ -1,0 +1,5 @@
+# Example input for: Supplier Negotiation Prep
+
+- Context:
+- Constraints:
+- Notes:
