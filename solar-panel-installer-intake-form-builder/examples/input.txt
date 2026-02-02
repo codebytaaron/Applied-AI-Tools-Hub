@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Solar Panel Installer
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

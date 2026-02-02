@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Mobile Dog Grooming
+Task: Local Marketing Calendar
+
+- Context:
+- Constraints:
+- Notes:

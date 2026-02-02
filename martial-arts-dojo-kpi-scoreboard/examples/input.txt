@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Martial Arts Dojo
+Task: KPI Scoreboard
+
+- Context:
+- Constraints:
+- Notes:

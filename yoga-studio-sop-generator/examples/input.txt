@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Yoga Studio
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:

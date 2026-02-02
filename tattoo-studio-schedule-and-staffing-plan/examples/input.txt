@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Tattoo Studio
+Task: Schedule and Staffing Plan
+
+- Context:
+- Constraints:
+- Notes:
