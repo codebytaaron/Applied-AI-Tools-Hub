@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Home Organizing Service
+Task: KPI Scoreboard
+
+- Context:
+- Constraints:
+- Notes:

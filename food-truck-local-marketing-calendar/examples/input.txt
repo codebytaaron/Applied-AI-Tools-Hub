@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Food Truck
+Task: Local Marketing Calendar
+
+- Context:
+- Constraints:
+- Notes:

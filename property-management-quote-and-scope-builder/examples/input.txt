@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Property Management
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:

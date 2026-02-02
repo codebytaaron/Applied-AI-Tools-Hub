@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Property Management
+Task: Local Marketing Calendar
+
+- Context:
+- Constraints:
+- Notes:

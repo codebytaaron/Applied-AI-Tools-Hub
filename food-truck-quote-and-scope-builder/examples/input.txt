@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Food Truck
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:
