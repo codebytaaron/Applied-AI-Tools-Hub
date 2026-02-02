@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Custom Furniture Shop
+Task: Schedule and Staffing Plan
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Mobile Dog Grooming
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

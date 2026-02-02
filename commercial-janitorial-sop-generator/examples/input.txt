@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Commercial Janitorial
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:

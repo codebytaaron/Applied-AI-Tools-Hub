@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Custom Furniture Shop
+Task: Review Response Kit
+
+- Context:
+- Constraints:
+- Notes:
