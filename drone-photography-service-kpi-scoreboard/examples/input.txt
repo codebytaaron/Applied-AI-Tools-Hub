@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Drone Photography Service
+Task: KPI Scoreboard
+
+- Context:
+- Constraints:
+- Notes:

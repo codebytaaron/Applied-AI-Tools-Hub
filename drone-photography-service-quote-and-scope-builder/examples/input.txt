@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Drone Photography Service
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:

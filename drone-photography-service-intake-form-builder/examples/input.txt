@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Drone Photography Service
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

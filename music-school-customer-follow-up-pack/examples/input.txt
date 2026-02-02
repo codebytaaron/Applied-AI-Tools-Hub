@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Music School
+Task: Customer Follow-Up Pack
+
+- Context:
+- Constraints:
+- Notes:
