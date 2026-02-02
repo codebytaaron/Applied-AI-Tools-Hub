@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Wedding DJ Service
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:

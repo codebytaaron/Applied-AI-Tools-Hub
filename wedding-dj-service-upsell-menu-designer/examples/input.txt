@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Wedding DJ Service
+Task: Upsell Menu Designer
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Martial Arts Dojo
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:
