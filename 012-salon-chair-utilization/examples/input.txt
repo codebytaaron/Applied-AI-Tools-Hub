@@ -1,0 +1,4 @@
+# Example input for Salon Chair Utilization
+
+- Context:
+- Notes:
