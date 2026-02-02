@@ -1,0 +1,4 @@
+# Example input for Laundry Service Route Planner
+
+- Context:
+- Notes:

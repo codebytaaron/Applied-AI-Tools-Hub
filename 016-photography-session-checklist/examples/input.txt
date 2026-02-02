@@ -1,0 +1,4 @@
+# Example input for Photography Session Checklist
+
+- Context:
+- Notes:
