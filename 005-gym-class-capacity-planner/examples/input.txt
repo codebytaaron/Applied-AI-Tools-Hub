@@ -1,0 +1,4 @@
+# Example input for Gym Class Capacity Planner
+
+- Context:
+- Notes:

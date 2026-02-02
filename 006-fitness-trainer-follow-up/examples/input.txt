@@ -1,0 +1,4 @@
+# Example input for Fitness Trainer Follow-Up
+
+- Context:
+- Notes:
