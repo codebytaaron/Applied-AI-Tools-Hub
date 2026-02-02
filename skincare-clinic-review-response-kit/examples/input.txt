@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Skincare Clinic
+Task: Review Response Kit
+
+- Context:
+- Constraints:
+- Notes:
