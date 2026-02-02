@@ -1,0 +1,8 @@
+# Example input
+
+Industry: HVAC Parts Distributor
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:

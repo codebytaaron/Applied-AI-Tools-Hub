@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Tattoo Studio
+Task: Review Response Kit
+
+- Context:
+- Constraints:
+- Notes:

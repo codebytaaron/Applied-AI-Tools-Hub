@@ -1,0 +1,8 @@
+# Example input
+
+Industry: IT Managed Services
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:
