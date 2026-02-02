@@ -1,0 +1,5 @@
+# Example input for: Service Bundle Designer
+
+- Business context:
+- Constraints:
+- Notes:
