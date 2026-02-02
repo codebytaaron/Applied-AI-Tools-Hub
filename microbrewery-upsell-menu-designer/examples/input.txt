@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Microbrewery
+Task: Upsell Menu Designer
+
+- Context:
+- Constraints:
+- Notes:

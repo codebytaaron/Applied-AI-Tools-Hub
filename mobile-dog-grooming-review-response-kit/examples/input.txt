@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Mobile Dog Grooming
+Task: Review Response Kit
+
+- Context:
+- Constraints:
+- Notes:

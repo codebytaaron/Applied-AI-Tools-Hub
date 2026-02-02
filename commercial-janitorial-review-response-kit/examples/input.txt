@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Commercial Janitorial
+Task: Review Response Kit
+
+- Context:
+- Constraints:
+- Notes:
