@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Pest Control
+Task: KPI Scoreboard
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Escape Room Venue
+Task: Local Marketing Calendar
+
+- Context:
+- Constraints:
+- Notes:

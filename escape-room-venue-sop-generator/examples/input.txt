@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Escape Room Venue
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:
