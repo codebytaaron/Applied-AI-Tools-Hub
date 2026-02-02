@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Escape Room Venue
+Task: Complaint Recovery Script
+
+- Context:
+- Constraints:
+- Notes:

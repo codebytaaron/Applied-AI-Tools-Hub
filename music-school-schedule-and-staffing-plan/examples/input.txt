@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Music School
+Task: Schedule and Staffing Plan
+
+- Context:
+- Constraints:
+- Notes:

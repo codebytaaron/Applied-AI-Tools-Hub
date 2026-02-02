@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Music School
+Task: KPI Scoreboard
+
+- Context:
+- Constraints:
+- Notes:
