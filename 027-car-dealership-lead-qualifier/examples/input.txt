@@ -1,0 +1,4 @@
+# Example input for Car Dealership Lead Qualifier
+
+- Context:
+- Notes:

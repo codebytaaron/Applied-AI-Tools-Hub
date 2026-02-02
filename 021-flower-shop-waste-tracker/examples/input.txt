@@ -1,0 +1,4 @@
+# Example input for Flower Shop Waste Tracker
+
+- Context:
+- Notes:

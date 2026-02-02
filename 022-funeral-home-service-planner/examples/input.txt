@@ -1,0 +1,4 @@
+# Example input for Funeral Home Service Planner
+
+- Context:
+- Notes:

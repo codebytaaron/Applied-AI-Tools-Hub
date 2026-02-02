@@ -1,0 +1,4 @@
+# Example input for Used Car Reconditioning Notes
+
+- Context:
+- Notes:

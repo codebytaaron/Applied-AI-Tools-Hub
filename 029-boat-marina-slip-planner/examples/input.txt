@@ -1,0 +1,4 @@
+# Example input for Boat Marina Slip Planner
+
+- Context:
+- Notes:
