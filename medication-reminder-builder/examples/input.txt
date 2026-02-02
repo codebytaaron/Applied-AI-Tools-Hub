@@ -1,0 +1,5 @@
+# Example input for: Medication Reminder Builder
+
+- Pet:
+- Owner concerns:
+- Notes:
