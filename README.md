@@ -8,7 +8,7 @@
 <h1>Applied AI Tools + Automation Models</h1>
 
 <p>
-Some of my favorite applied AI projects (apps + utilities) and my production-ready automation models.
+Some of my favorite applied AI projects (apps + utilities) and my production-ready automation models. To see more models contact me. 
 </p>
 
 <!-- subtle animated divider -->
