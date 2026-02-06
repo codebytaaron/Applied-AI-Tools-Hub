@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Horse Stable
+Task: Boarding Management System
+
+- Context:
+- Notes:

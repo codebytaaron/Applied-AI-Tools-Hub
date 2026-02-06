@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Funeral Home
+Task: Family Intake Assistant
+
+- Context:
+- Notes:

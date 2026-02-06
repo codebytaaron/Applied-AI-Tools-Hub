@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Indoor Climbing Gym
+Task: Route Reset Planner
+
+- Context:
+- Notes:

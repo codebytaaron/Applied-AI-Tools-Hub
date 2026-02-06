@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Ice Rink
+Task: Ice Maintenance Scheduler
+
+- Context:
+- Notes:
