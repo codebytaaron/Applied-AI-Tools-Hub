@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Boat Marina
+Task: Slip Allocation Manager
+
+- Context:
+- Notes:

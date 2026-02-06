@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Arcade Operator
+Task: Machine Revenue Analyzer
+
+- Context:
+- Notes:
