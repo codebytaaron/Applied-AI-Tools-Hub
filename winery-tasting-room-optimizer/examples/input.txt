@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Winery
+Task: Tasting Room Optimizer
+
+- Context:
+- Notes:

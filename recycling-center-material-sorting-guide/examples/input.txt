@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Recycling Center
+Task: Material Sorting Guide
+
+- Context:
+- Notes:

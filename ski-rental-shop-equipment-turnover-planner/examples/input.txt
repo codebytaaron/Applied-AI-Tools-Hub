@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Ski Rental Shop
+Task: Equipment Turnover Planner
+
+- Context:
+- Notes:
