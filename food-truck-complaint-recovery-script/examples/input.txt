@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Food Truck
+Task: Complaint Recovery Script
+
+- Context:
+- Constraints:
+- Notes:

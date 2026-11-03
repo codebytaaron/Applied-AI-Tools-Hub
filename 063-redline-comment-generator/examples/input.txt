@@ -1,0 +1,5 @@
+# Example input for: Redline Comment Generator
+
+- Business context:
+- Constraints:
+- Data / notes:

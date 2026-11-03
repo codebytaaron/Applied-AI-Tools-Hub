@@ -1,0 +1,5 @@
+# Example input for: Brand Voice Guide Builder
+
+- Context:
+- Constraints:
+- Raw notes:

@@ -1,0 +1,5 @@
+# Example input for: Wine Pairing Recommender
+
+- Business context:
+- Constraints:
+- Data / notes:

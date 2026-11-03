@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Yoga Studio
+Task: Customer Follow-Up Pack
+
+- Context:
+- Constraints:
+- Notes:

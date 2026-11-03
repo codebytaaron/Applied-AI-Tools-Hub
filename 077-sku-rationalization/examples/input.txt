@@ -1,0 +1,5 @@
+# Example input for: SKU Rationalization
+
+- Context:
+- Constraints:
+- Notes:

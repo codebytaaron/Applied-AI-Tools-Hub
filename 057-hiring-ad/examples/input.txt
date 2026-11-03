@@ -1,0 +1,5 @@
+# Example input for: Hiring Ad
+
+- Job context:
+- Constraints:
+- Notes:

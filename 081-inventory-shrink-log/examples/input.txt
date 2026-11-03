@@ -1,0 +1,5 @@
+# Example input for: Inventory Shrink Log
+
+- Context:
+- Constraints:
+- Notes:

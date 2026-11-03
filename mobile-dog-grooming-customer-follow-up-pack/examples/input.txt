@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Mobile Dog Grooming
+Task: Customer Follow-Up Pack
+
+- Context:
+- Constraints:
+- Notes:

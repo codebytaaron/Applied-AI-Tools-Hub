@@ -1,0 +1,5 @@
+# Example input for: General Template 95
+
+- Job context:
+- Constraints:
+- Notes:

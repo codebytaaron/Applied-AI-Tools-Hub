@@ -1,0 +1,5 @@
+# Example input for: Holiday Promo Kit
+
+- Context:
+- Constraints:
+- Notes:

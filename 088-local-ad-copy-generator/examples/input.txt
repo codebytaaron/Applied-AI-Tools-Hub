@@ -1,0 +1,5 @@
+# Example input for: Local Ad Copy Generator
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Job Description Generator
+
+- Context:
+- Constraints:
+- Raw notes:

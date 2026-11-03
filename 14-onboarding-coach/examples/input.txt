@@ -1,0 +1,5 @@
+# Example input for Customer Onboarding Playbook Generator
+
+- Context:
+- Constraints:
+- Raw notes/data:

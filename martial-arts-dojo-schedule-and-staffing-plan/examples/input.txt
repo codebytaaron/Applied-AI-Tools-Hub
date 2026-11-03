@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Martial Arts Dojo
+Task: Schedule and Staffing Plan
+
+- Context:
+- Constraints:
+- Notes:

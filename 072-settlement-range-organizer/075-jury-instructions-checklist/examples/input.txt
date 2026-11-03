@@ -1,0 +1,5 @@
+# Example input for: Jury Instructions Checklist
+
+- Business context:
+- Constraints:
+- Data / notes:

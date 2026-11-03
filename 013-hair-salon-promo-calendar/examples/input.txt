@@ -1,0 +1,4 @@
+# Example input for Hair Salon Promo Calendar
+
+- Context:
+- Notes:

@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Private Airstrip
+Task: Flight Log Manager
+
+- Context:
+- Notes:

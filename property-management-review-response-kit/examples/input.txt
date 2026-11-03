@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Property Management
+Task: Review Response Kit
+
+- Context:
+- Constraints:
+- Notes:

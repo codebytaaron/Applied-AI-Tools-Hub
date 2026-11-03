@@ -1,0 +1,5 @@
+# Example input for: Seasonal Promo
+
+- Job context:
+- Constraints:
+- Notes:

@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Beekeeping Supply Shop
+Task: Hive Management Planner
+
+- Context:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Seasonal Rate Planner
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,6 @@
+ai-text-quality-evaluator/
+├─ app.py
+├─ evaluator.py
+├─ requirements.txt
+├─ README.md
+└─ .env.example

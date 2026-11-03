@@ -1,0 +1,5 @@
+# Example input for: Witness Prep Script
+
+- Business context:
+- Constraints:
+- Data / notes:

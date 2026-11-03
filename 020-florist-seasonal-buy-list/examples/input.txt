@@ -1,0 +1,4 @@
+# Example input for Florist Seasonal Buy List
+
+- Context:
+- Notes:

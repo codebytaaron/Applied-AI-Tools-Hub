@@ -1,0 +1,5 @@
+# Example input for: Energy Cost Tracker
+
+- Context:
+- Constraints:
+- Notes:

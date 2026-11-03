@@ -1,0 +1,5 @@
+# Example input for Operations Email Drafter
+
+- Context:
+- Constraints:
+- Raw notes/data:

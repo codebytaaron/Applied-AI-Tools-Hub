@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Music School
+Task: Local Marketing Calendar
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Custom Furniture Shop
+Task: KPI Scoreboard
+
+- Context:
+- Constraints:
+- Notes:

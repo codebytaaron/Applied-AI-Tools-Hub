@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Comic Book Store
+Task: Pull List Manager
+
+- Context:
+- Notes:

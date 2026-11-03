@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Greenhouse Nursery
+Task: Crop Rotation Planner
+
+- Context:
+- Notes:

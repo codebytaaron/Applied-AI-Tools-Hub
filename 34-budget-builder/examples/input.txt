@@ -1,0 +1,5 @@
+# Example input for Budget Builder + Variance Explainer
+
+- Context:
+- Constraints:
+- Raw notes/data:

@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Custom Furniture Shop
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:

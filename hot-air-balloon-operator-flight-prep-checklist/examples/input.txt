@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Hot Air Balloon Operator
+Task: Flight Prep Checklist
+
+- Context:
+- Notes:

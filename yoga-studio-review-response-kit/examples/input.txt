@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Yoga Studio
+Task: Review Response Kit
+
+- Context:
+- Constraints:
+- Notes:

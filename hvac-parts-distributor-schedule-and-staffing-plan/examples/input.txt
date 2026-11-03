@@ -1,0 +1,8 @@
+# Example input
+
+Industry: HVAC Parts Distributor
+Task: Schedule and Staffing Plan
+
+- Context:
+- Constraints:
+- Notes:

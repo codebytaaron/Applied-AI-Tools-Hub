@@ -1,0 +1,5 @@
+# Example input for: Equipment Downtime Log
+
+- Context:
+- Constraints:
+- Notes:

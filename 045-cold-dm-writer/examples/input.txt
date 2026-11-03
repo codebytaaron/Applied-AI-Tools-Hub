@@ -1,0 +1,5 @@
+# Example input for: Cold DM Writer
+
+- Context:
+- Constraints:
+- Raw notes:

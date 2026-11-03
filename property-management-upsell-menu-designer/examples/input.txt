@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Property Management
+Task: Upsell Menu Designer
+
+- Context:
+- Constraints:
+- Notes:

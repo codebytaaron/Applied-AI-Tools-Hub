@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Urban Farm
+Task: Harvest Forecast Tool
+
+- Context:
+- Notes:

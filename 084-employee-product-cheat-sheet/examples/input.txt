@@ -1,0 +1,5 @@
+# Example input for: Employee Product Cheat Sheet
+
+- Context:
+- Constraints:
+- Notes:

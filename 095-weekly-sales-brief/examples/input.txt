@@ -1,0 +1,5 @@
+# Example input for: Weekly Sales Brief
+
+- Context:
+- Constraints:
+- Notes:

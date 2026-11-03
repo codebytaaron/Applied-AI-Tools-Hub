@@ -1,0 +1,5 @@
+# Example input for: Housekeeping Route Planner
+
+- Context:
+- Constraints:
+- Notes:

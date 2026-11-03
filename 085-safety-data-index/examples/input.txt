@@ -1,0 +1,5 @@
+# Example input for: Safety Data Index
+
+- Context:
+- Constraints:
+- Notes:

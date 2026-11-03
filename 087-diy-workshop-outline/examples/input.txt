@@ -1,0 +1,5 @@
+# Example input for: DIY Workshop Outline
+
+- Context:
+- Constraints:
+- Notes:

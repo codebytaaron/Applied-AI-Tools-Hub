@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Drone Photography Service
+Task: Upsell Menu Designer
+
+- Context:
+- Constraints:
+- Notes:

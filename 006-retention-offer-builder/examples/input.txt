@@ -1,0 +1,5 @@
+# Example input for: Retention Offer Builder
+
+- Business context:
+- Constraints:
+- Notes:

@@ -1,0 +1,9 @@
+claritycheck-ai/
+  app/
+    api/clarity/route.js
+    layout.js
+    page.js
+  .env.local.example
+  next.config.js
+  package.json
+  README.md

@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Property Management
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Weekly Staff Huddle Agenda
+
+- Business context:
+- Constraints:
+- Notes:

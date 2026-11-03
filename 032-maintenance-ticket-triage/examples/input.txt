@@ -1,0 +1,5 @@
+# Example input for: Maintenance Ticket Triage
+
+- Context:
+- Constraints:
+- Notes:

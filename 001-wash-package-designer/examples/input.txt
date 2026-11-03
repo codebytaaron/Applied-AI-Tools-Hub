@@ -1,0 +1,5 @@
+# Example input for: Wash Package Designer
+
+- Context:
+- Constraints:
+- Notes:

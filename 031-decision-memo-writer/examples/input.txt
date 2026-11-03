@@ -1,0 +1,5 @@
+# Example input for: Decision Memo Writer
+
+- Context:
+- Constraints:
+- Raw notes:

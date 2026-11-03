@@ -1,0 +1,5 @@
+# Example input for: Community Fundraiser Plan
+
+- Business context:
+- Constraints:
+- Data / notes:

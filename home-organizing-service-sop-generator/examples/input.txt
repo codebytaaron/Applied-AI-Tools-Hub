@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Home Organizing Service
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:

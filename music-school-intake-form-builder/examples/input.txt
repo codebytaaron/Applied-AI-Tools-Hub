@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Music School
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Training Shift Plan
+
+- Context:
+- Constraints:
+- Notes:

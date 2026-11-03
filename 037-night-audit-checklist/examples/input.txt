@@ -1,0 +1,5 @@
+# Example input for: Night Audit Checklist
+
+- Context:
+- Constraints:
+- Notes:

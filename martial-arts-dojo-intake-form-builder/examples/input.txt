@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Martial Arts Dojo
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

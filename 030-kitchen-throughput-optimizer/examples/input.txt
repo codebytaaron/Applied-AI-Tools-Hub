@@ -1,0 +1,5 @@
+# Example input for: Kitchen Throughput Optimizer
+
+- Business context:
+- Constraints:
+- Data / notes:

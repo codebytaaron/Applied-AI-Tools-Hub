@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Home Organizing Service
+Task: Customer Follow-Up Pack
+
+- Context:
+- Constraints:
+- Notes:

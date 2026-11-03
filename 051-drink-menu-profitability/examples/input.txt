@@ -1,0 +1,5 @@
+# Example input for: Drink Menu Profitability
+
+- Context:
+- Constraints:
+- Notes:

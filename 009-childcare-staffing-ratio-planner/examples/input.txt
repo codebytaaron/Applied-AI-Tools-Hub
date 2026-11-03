@@ -1,0 +1,4 @@
+# Example input for Childcare Staffing Ratio Planner
+
+- Context:
+- Notes:

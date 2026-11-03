@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Cemetery Grounds
+Task: Maintenance Scheduler
+
+- Context:
+- Notes:

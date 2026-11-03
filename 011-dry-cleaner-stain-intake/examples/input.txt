@@ -1,0 +1,4 @@
+# Example input for Dry Cleaner Stain Intake
+
+- Context:
+- Notes:

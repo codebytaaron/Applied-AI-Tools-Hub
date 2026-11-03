@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Custom Aquarium Builder
+Task: Tank Design Planner
+
+- Context:
+- Notes:

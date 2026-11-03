@@ -1,0 +1,5 @@
+# Example input for: Past‑Due Reminder
+
+- Job context:
+- Constraints:
+- Notes:

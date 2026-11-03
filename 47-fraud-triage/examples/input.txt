@@ -1,0 +1,5 @@
+# Example input for Fraud Signal Triage Assistant
+
+- Context:
+- Constraints:
+- Raw notes/data:

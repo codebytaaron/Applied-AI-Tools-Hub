@@ -1,0 +1,8 @@
+# backend
+cd services/api
+uvicorn app.main:app --reload
+
+# frontend
+cd apps/web
+npm install
+npm run dev

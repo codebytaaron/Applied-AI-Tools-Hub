@@ -1,0 +1,5 @@
+# Example input for: Supplier Reorder Plan
+
+- Business context:
+- Constraints:
+- Notes:

@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Drone Photography Service
+Task: Complaint Recovery Script
+
+- Context:
+- Constraints:
+- Notes:

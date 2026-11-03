@@ -1,0 +1,5 @@
+# Example input for: Net Promoter Follow‑Up
+
+- Job context:
+- Constraints:
+- Notes:

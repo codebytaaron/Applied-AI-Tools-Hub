@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Glass Blowing Studio
+Task: Workshop Safety Planner
+
+- Context:
+- Notes:

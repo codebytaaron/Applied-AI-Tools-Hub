@@ -1,0 +1,14 @@
+hashtag-gen-ai/
+  app.py
+  requirements.txt
+  README.md
+  .gitignore
+  src/
+    hashtag_ai.py
+    hashtag_rules.py
+    utils.py
+  templates/
+    index.html
+  static/
+    app.js
+    styles.css

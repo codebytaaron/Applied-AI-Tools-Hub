@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Solar Panel Installer
+Task: Complaint Recovery Script
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Clock Repair Shop
+Task: Restoration Planner
+
+- Context:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Document Review Tagging Guide
+
+- Business context:
+- Constraints:
+- Data / notes:

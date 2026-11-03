@@ -1,0 +1,104 @@
+# 100 Local Business AI Templates
+
+No license file included.
+
+- **001-wash-package-designer**: Car Wash – Wash Package Designer
+- **002-tunnel-throughput-planner**: Car Wash – Tunnel Throughput Planner
+- **003-chemical-usage-optimizer**: Car Wash – Chemical Usage Optimizer
+- **004-membership-offer-builder**: Car Wash – Membership Offer Builder
+- **005-fleet-account-pitch**: Car Wash – Fleet Account Pitch
+- **006-rain-day-promo-planner**: Car Wash – Rain-Day Promo Planner
+- **007-vacuum-zone-layout**: Car Wash – Vacuum Zone Layout
+- **008-detail-upsell-script**: Car Wash – Detail Upsell Script
+- **009-equipment-downtime-log**: Car Wash – Equipment Downtime Log
+- **010-daily-open-close-checklist**: Car Wash – Daily Open/Close Checklist
+- **011-water-reclaim-report**: Car Wash – Water Reclaim Report
+- **012-complaint-resolution-script**: Car Wash – Complaint Resolution Script
+- **013-price-board-copy**: Car Wash – Price Board Copy
+- **014-subscription-churn-saver**: Car Wash – Subscription Churn Saver
+- **015-site-safety-audit**: Car Wash – Site Safety Audit
+- **016-maintenance-schedule-builder**: Car Wash – Maintenance Schedule Builder
+- **017-employee-training-card**: Car Wash – Employee Training Card
+- **018-pos-button-map**: Car Wash – POS Button Map
+- **019-weather-impact-forecaster**: Car Wash – Weather Impact Forecaster
+- **020-local-seo-post-generator**: Car Wash – Local SEO Post Generator
+- **021-customer-survey-builder**: Car Wash – Customer Survey Builder
+- **022-supply-reorder-trigger**: Car Wash – Supply Reorder Trigger
+- **023-energy-cost-tracker**: Car Wash – Energy Cost Tracker
+- **024-holiday-promo-kit**: Car Wash – Holiday Promo Kit
+- **025-expansion-feasibility-notes**: Car Wash – Expansion Feasibility Notes
+- **026-room-turnover-optimizer**: Hotel – Room Turnover Optimizer
+- **027-housekeeping-route-planner**: Hotel – Housekeeping Route Planner
+- **028-front-desk-script-kit**: Hotel – Front Desk Script Kit
+- **029-upsell-offer-generator**: Hotel – Upsell Offer Generator
+- **030-late-checkout-policy**: Hotel – Late Checkout Policy
+- **031-group-booking-quote**: Hotel – Group Booking Quote
+- **032-maintenance-ticket-triage**: Hotel – Maintenance Ticket Triage
+- **033-guest-recovery-playbook**: Hotel – Guest Recovery Playbook
+- **034-review-response-matrix**: Hotel – Review Response Matrix
+- **035-seasonal-rate-planner**: Hotel – Seasonal Rate Planner
+- **036-amenity-cost-analyzer**: Hotel – Amenity Cost Analyzer
+- **037-night-audit-checklist**: Hotel – Night Audit Checklist
+- **038-staff-scheduling-guide**: Hotel – Staff Scheduling Guide
+- **039-lost-and-found-sop**: Hotel – Lost and Found SOP
+- **040-vendor-bid-comparison**: Hotel – Vendor Bid Comparison
+- **041-event-banquet-sheet**: Hotel – Event Banquet Sheet
+- **042-loyalty-email-draft**: Hotel – Loyalty Email Draft
+- **043-occupancy-forecast-notes**: Hotel – Occupancy Forecast Notes
+- **044-ota-listing-optimizer**: Hotel – OTA Listing Optimizer
+- **045-crisis-comms-draft**: Hotel – Crisis Comms Draft
+- **046-training-shift-plan**: Hotel – Training Shift Plan
+- **047-energy-usage-report**: Hotel – Energy Usage Report
+- **048-mini-bar-pricing**: Hotel – Mini-Bar Pricing
+- **049-accessibility-audit**: Hotel – Accessibility Audit
+- **050-renovation-phasing-notes**: Hotel – Renovation Phasing Notes
+- **051-drink-menu-profitability**: Bar – Drink Menu Profitability
+- **052-happy-hour-builder**: Bar – Happy Hour Builder
+- **053-bar-inventory-counter**: Bar – Bar Inventory Counter
+- **054-pour-cost-calculator**: Bar – Pour Cost Calculator
+- **055-signature-cocktail-creator**: Bar – Signature Cocktail Creator
+- **056-event-night-planner**: Bar – Event Night Planner
+- **057-id-check-sop**: Bar – ID Check SOP
+- **058-bartender-shift-notes**: Bar – Bartender Shift Notes
+- **059-glassware-par-levels**: Bar – Glassware Par Levels
+- **060-supplier-negotiation-prep**: Bar – Supplier Negotiation Prep
+- **061-tap-rotation-planner**: Bar – Tap Rotation Planner
+- **062-music-licensing-checklist**: Bar – Music Licensing Checklist
+- **063-review-reply-generator**: Bar – Review Reply Generator
+- **064-barback-task-list**: Bar – Barback Task List
+- **065-waste-reduction-plan**: Bar – Waste Reduction Plan
+- **066-late-night-safety-plan**: Bar – Late-Night Safety Plan
+- **067-seasonal-promo-copy**: Bar – Seasonal Promo Copy
+- **068-local-partnership-pitch**: Bar – Local Partnership Pitch
+- **069-training-flash-cards**: Bar – Training Flash Cards
+- **070-pos-modifier-map**: Bar – POS Modifier Map
+- **071-private-event-quote**: Bar – Private Event Quote
+- **072-compliance-reminder**: Bar – Compliance Reminder
+- **073-cash-drawer-audit**: Bar – Cash Drawer Audit
+- **074-tip-pool-policy**: Bar – Tip Pool Policy
+- **075-brand-voice-guide**: Bar – Brand Voice Guide
+- **076-aisle-layout-planner**: Hardware Store – Aisle Layout Planner
+- **077-sku-rationalization**: Hardware Store – SKU Rationalization
+- **078-seasonal-endcap-planner**: Hardware Store – Seasonal Endcap Planner
+- **079-contractor-account-pitch**: Hardware Store – Contractor Account Pitch
+- **080-tool-rental-sop**: Hardware Store – Tool Rental SOP
+- **081-inventory-shrink-log**: Hardware Store – Inventory Shrink Log
+- **082-vendor-onboarding-kit**: Hardware Store – Vendor Onboarding Kit
+- **083-price-match-policy**: Hardware Store – Price Match Policy
+- **084-employee-product-cheat-sheet**: Hardware Store – Employee Product Cheat Sheet
+- **085-safety-data-index**: Hardware Store – Safety Data Index
+- **086-return-policy-explainer**: Hardware Store – Return Policy Explainer
+- **087-diy-workshop-outline**: Hardware Store – DIY Workshop Outline
+- **088-local-ad-copy-generator**: Hardware Store – Local Ad Copy Generator
+- **089-repair-desk-intake**: Hardware Store – Repair Desk Intake
+- **090-special-order-tracker**: Hardware Store – Special Order Tracker
+- **091-freight-receiving-checklist**: Hardware Store – Freight Receiving Checklist
+- **092-merchandising-photo-list**: Hardware Store – Merchandising Photo List
+- **093-staff-training-schedule**: Hardware Store – Staff Training Schedule
+- **094-warranty-claim-helper**: Hardware Store – Warranty Claim Helper
+- **095-weekly-sales-brief**: Hardware Store – Weekly Sales Brief
+- **096-community-event-plan**: Hardware Store – Community Event Plan
+- **097-e-commerce-pickup-sop**: Hardware Store – E-commerce Pickup SOP
+- **098-stock-reorder-alerts**: Hardware Store – Stock Reorder Alerts
+- **099-margin-mix-analyzer**: Hardware Store – Margin Mix Analyzer
+- **100-expansion-location-notes**: Hardware Store – Expansion Location Notes

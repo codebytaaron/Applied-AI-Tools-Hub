@@ -1,0 +1,5 @@
+# Example input for: Subcontractor Scope
+
+- Job context:
+- Constraints:
+- Notes:

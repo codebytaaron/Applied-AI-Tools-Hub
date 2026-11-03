@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Home Organizing Service
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

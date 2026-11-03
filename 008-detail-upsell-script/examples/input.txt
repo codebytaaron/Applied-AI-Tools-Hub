@@ -1,0 +1,5 @@
+# Example input for: Detail Upsell Script
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,4 @@
+# Example input for Event Rental Inventory Planner
+
+- Context:
+- Notes:

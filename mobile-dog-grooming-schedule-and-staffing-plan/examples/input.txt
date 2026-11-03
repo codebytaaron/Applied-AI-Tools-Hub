@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Mobile Dog Grooming
+Task: Schedule and Staffing Plan
+
+- Context:
+- Constraints:
+- Notes:

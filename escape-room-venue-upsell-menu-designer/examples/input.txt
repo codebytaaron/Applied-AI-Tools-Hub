@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Escape Room Venue
+Task: Upsell Menu Designer
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Product Naming Brainstormer
+
+- Context:
+- Constraints:
+- Raw notes:

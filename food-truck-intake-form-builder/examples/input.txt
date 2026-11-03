@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Food Truck
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

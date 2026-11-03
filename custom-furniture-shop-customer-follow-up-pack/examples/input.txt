@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Custom Furniture Shop
+Task: Customer Follow-Up Pack
+
+- Context:
+- Constraints:
+- Notes:

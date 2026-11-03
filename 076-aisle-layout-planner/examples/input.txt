@@ -1,0 +1,5 @@
+# Example input for: Aisle Layout Planner
+
+- Context:
+- Constraints:
+- Notes:

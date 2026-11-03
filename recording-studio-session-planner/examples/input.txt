@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Recording Studio
+Task: Session Planner
+
+- Context:
+- Notes:

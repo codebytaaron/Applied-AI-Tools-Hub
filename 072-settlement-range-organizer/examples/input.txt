@@ -1,0 +1,5 @@
+# Example input for: Settlement Range Organizer
+
+- Business context:
+- Constraints:
+- Data / notes:

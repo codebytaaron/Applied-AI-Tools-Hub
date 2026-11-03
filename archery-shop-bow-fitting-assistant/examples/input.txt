@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Archery Shop
+Task: Bow Fitting Assistant
+
+- Context:
+- Notes:

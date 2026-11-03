@@ -1,0 +1,7 @@
+# Example input
+
+Industry: Shooting Range
+Task: Safety Brief Generator
+
+- Context:
+- Notes:

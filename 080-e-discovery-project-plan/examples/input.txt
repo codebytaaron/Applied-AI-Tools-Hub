@@ -1,0 +1,5 @@
+# Example input for: E-Discovery Project Plan
+
+- Business context:
+- Constraints:
+- Data / notes:

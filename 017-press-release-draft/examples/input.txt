@@ -1,0 +1,5 @@
+# Example input for: Press Release Draft
+
+- Context:
+- Constraints:
+- Raw notes:

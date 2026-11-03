@@ -1,0 +1,5 @@
+# Example input for: Daily Specials Generator
+
+- Business context:
+- Constraints:
+- Data / notes:

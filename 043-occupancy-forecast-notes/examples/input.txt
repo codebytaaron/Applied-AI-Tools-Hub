@@ -1,0 +1,5 @@
+# Example input for: Occupancy Forecast Notes
+
+- Context:
+- Constraints:
+- Notes:

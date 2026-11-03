@@ -1,0 +1,4 @@
+# Example input for Party Rental Quote Builder
+
+- Context:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Incident Comms Draft
+
+- Context:
+- Constraints:
+- Raw notes:

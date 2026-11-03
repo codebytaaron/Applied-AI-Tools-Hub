@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Boat Detailing
+Task: Complaint Recovery Script
+
+- Context:
+- Constraints:
+- Notes:

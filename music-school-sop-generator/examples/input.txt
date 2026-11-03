@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Music School
+Task: SOP Generator
+
+- Context:
+- Constraints:
+- Notes:

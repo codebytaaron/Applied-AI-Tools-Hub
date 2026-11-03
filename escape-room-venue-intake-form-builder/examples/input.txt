@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Escape Room Venue
+Task: Intake Form Builder
+
+- Context:
+- Constraints:
+- Notes:

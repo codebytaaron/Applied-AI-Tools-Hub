@@ -1,0 +1,5 @@
+# Example input for: Room Turnover Optimizer
+
+- Context:
+- Constraints:
+- Notes:

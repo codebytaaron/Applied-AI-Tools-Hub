@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Custom Furniture Shop
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:

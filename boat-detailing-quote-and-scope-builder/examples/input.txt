@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Boat Detailing
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Upsell Offer Generator
+
+- Context:
+- Constraints:
+- Notes:

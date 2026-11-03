@@ -1,0 +1,5 @@
+# Example input for: Tip Pool Policy
+
+- Context:
+- Constraints:
+- Notes:

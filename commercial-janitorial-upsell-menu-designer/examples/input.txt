@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Commercial Janitorial
+Task: Upsell Menu Designer
+
+- Context:
+- Constraints:
+- Notes:

@@ -1,0 +1,5 @@
+# Example input for: Tap Rotation Planner
+
+- Context:
+- Constraints:
+- Notes:

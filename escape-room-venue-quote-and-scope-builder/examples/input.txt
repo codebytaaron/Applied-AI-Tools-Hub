@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Escape Room Venue
+Task: Quote and Scope Builder
+
+- Context:
+- Constraints:
+- Notes:

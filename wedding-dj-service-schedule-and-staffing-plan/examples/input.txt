@@ -1,0 +1,8 @@
+# Example input
+
+Industry: Wedding DJ Service
+Task: Schedule and Staffing Plan
+
+- Context:
+- Constraints:
+- Notes:
