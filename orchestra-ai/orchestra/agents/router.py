@@ -27,7 +27,7 @@ class Router:
     def decide(self, query: str) -> RouteDecision:
         system = (
             "Route the user request to one agent: planner, writer, analyst, tool_user. "
-            "Return STRICT JSON: {"agent":"...","reason":"..."}. "
+            'Return STRICT JSON: {"agent":"...","reason":"..."}. '
             "Use tool_user if math, file operations, or fetching a url is needed."
         )
         r = self.llm.chat([

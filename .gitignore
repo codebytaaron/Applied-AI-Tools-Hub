@@ -1,0 +1,30 @@
+# Local credentials (keep shareable examples)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# JavaScript
+node_modules/
+.next/
+dist/
+coverage/
+
+# Local editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Default generated template output
+out.md
+
+# Orchestra local cache
+orchestra-ai/.cache/

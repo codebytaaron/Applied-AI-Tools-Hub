@@ -1,11 +1,3 @@
-link-tracker/
-├── app.py
-├── data.json
-├── templates/
-│   └── index.html
-└── static/
-    ├── style.css
-    └── script.js
 from flask import Flask, render_template, jsonify
 import json
 import os

@@ -1,12 +1,3 @@
-ranklist-cli/
-  package.json
-  README.md
-  bin/
-    ranklist.js
-  src/
-    index.js
-    parse.js
-    output.js
 {
   "name": "ranklist-cli",
   "version": "1.0.0",

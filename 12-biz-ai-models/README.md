@@ -1,5 +1,5 @@
 # 12 Business AI Workflow Models
-Each folder is a self-contained mini-repo you can drop into GitHub.
+The models listed below live in sibling folders at the repository root. Each is a self-contained project.
 They all run the same way: edit `prompt.py`, put input in `examples/input.txt`, run `python main.py`.
 
 ## Included models
@@ -18,7 +18,7 @@ They all run the same way: edit `prompt.py`, put input in `examples/input.txt`, 
 
 ## Quick start (any model)
 ```bash
-cd 01-lead-triage
+cd ../01-lead-triage
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt

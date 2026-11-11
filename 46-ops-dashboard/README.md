@@ -1,5 +1,7 @@
 # Ops Dashboard Spec Builder
 
+> Status: documentation only. The implementation, dependency file, and example input are missing; the commands below are reference instructions until those files are restored.
+
 Defines what to track, how to compute it, and how to visualize it.
 
 ## What it does
