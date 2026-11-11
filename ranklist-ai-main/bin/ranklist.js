@@ -121,4 +121,3 @@ main().catch((err) => {
   console.error("Error:", err?.message || err);
   process.exit(1);
 });
-bin/ranklist.js
